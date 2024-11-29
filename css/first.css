@@ -16,7 +16,6 @@ html {
     button:hover {
       background-color: blue;
     }
-    /* Base (Mobile View) - Default Style */
 body {
   display: flex;
   flex-direction: column;
@@ -27,7 +26,7 @@ body {
 }
 
 div {
-  width: 90%; /* Full width for mobile */
+  width: 90%; 
   margin: 10px 0;
   padding: 10px;
   border: 1px solid #ccc;
@@ -37,7 +36,7 @@ div {
 }
 
 img {
-  max-width: 100%; /* Ensure images fit within mobile view */
+  max-width: 100%;  
   height: auto;
   display: block;
   margin: 0 auto;
